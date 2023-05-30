@@ -1,0 +1,53 @@
+/*diseños especificos*/
+/* clase. id# */
+#footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 120px;
+    padding: 20px 100px;
+    background-color: #010851;
+    
+}
+
+.footer__info {
+    width: 35%;
+    color: #ffff;
+}
+
+input {
+    margin-right: -20px;
+    width: 200px;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: #45486899;
+}
+
+.button__pink {
+    color: #ffff;
+    background-color: #ED80FD;
+    border: none;
+}
+
+table {
+    font-family: 'Jost';
+    text-align: left;
+    color: #ffff;
+}
+
+table tr {
+    height: 40px;
+}
+
+table th {
+    height: 80px;
+}
+
+table td {
+    padding-right: 45px;
+}
+
+table a {
+    color: #ffff;
+}

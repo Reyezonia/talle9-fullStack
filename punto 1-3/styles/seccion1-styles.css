@@ -1,0 +1,42 @@
+
+/*diseños especificos*/
+
+#seccion1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 120px;
+    margin: 50px 100px;
+    gap: 30px;
+}
+
+.seccion1__info {
+    width: 30%;
+}
+
+#seccion1 p {
+  text-align: justify;
+  color:  #454860;
+}
+
+.div__card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: min-content;  
+    height: 190px;
+    padding: 30px;
+    border-radius: 40px;
+    box-shadow: 0px 10px 50px #454860;
+    text-align: center;
+  }
+
+.div__sec1_card_down {
+  margin-top: 90px;
+}
+
+.div__card h3{
+    font-family: 'Jost';
+    color: #010851;
+}

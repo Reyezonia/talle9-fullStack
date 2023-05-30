@@ -1,0 +1,19 @@
+/*diseños especificos*/
+#seccion2 {
+
+    align-items: center;
+    padding: 50px 180px;
+    background-color: #ec80fd46;
+
+}
+
+/*clase . id#*/
+.div__sec2 {
+    display: flex;
+    margin: 80px 0px;
+    gap: 30px;
+}
+
+.subtitle {
+    color: #FD909E;
+}

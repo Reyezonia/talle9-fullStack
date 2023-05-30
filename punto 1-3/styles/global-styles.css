@@ -1,0 +1,50 @@
+/*diseños generales o  globales*/
+body {
+    margin: 0px;
+
+}
+
+a {
+    font-family: 'Jost';
+    font-size: 18px;
+}
+
+button {
+    padding: 12px 26px;
+    font-family: 'Jost';
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button__orange {
+    color: #ffff;
+    background-color: #fd909e;
+    border: none;
+    margin-right: 10px;
+}
+
+h1 {
+    margin: 0px;
+    font-family: 'Jost';
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 70px;
+    color: #ffff;
+    letter-spacing: -0.64px;
+}
+
+h2 {
+    margin: 5px 0px;
+    font-family: 'Jost';
+    font-size: 48px;
+    color: #010851;
+    line-height: 55px;
+    letter-spacing: -0.64px;
+}
+p {
+    font-family: 'Jost';
+    font-size: 15px;
+    font-weight: 300;
+}
+
