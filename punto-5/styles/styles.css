@@ -1,28 +1,31 @@
 /* clase. id# */
-.text__normal {
-
+.punto__5 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: left;
 }
 
-.text__verde {
-    
+#text__verde {
+    color: rgb(10, 165, 10);
 }
 
-.text__rojo{
-
+.text__rojo {
+    color: red;
 }
 
-.text__lineal{
-
+.text__lineal {
+    text-decoration: underline overline;
 }
 
-.text__grande{
-
+.text__grande {
+    font-size: 40px;
 }
 
-.text__azul{
-
+.text__azul {
+    color: blue;
 }
 
-.text__rojo_sub{
-    
+#text__rojo_sub {
+    color: red;
 }

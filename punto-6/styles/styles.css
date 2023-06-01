@@ -1,12 +1,21 @@
 /* clase. id# */
-#link{
-
+.punto__6 {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+ 
 }
 
-#amarillo{
-
+a {
+    font-size: 30px;
+    font-weight: bold;
 }
 
-#morado{
-    
+#amarillo {
+ color: yellow;
+}
+
+#morado {
+ color: purple;
+
 }

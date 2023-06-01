@@ -1,0 +1,31 @@
+nav {
+    display: flex;
+    align-items: center;
+    background-color: #cdbcb8;
+    cursor: pointer;
+    margin: 0px 420px;/* 100px;*/
+ 
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    display: inline;
+    padding: 15px;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+   /* gap: 30px;*/
+    line-height: 40px;
+}
+
+ul li {
+    display: inline-block;
+}
+
+ul li:hover {
+    background: #1936EE;
+}

@@ -1,6 +1,11 @@
 /* clase. id# */
-Span {
-    font-weight:  bold;
+.punto__4 {
+text-align: center;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
 }
 #azul {
 color:blue;
